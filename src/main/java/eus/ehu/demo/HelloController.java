@@ -16,11 +16,6 @@ public class HelloController {
     
     @FXML
     private Button startButton;
-
-    @FXML
-    protected void onHelloButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
-    }
     
     @FXML
     protected void onStartTaskClick() {

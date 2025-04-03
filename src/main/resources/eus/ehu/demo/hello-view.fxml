@@ -13,7 +13,6 @@
     </padding>
 
     <Label fx:id="welcomeText"/>
-    <Button text="Hello!" onAction="#onHelloButtonClick"/>
     
     <!-- Progress bar for background task -->
     <ProgressBar fx:id="progressBar" progress="0.0" prefWidth="200"/>
